@@ -13,3 +13,4 @@ function table_num() {
     console.log("Table " + etable)
 
 }
+table_num()
