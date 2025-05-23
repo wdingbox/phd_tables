@@ -1,0 +1,19 @@
+thead {
+    background-color: lightgray;
+}
+
+.Table_OBI_Hieroglyph, tr,td,th {
+
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+.Table_OBI_Hieroglyph tr td img {
+    width: 30px;
+    height: 30px;
+}
+.Group_of_Hieroglyphs_6_7{
+    border: 1px solid gray;
+}
+.Group_of_Hieroglyphs_6_7 img{
+
+}
