@@ -1,5 +1,12 @@
+
+body{
+    width: 1000px;
+}
 thead {
     background-color: lightgray;
+}
+th{
+    font-size:small;
 }
 
 .Table_OBI_Hieroglyph, tr,td,th {
