@@ -7,6 +7,7 @@ thead {
 }
 th{
     font-size:small;
+    background-color: lightgray;
 }
 
 .Table_OBI_Hieroglyph, tr,td,th {
@@ -23,4 +24,7 @@ th{
 }
 .Group_of_Hieroglyphs_6_7 img{
 
+}
+.td_centered{
+    text-align: center;
 }
