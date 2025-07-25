@@ -1,30 +1,39 @@
-
-body{
+body {
     width: 595px;
 }
-thead {
-    
-}
-th{
-    font-size:small;
-    
+
+thead {}
+
+th {
+    font-size: small;
+
 }
 
-.Table_OBI_Hieroglyph, tr,td,th {
+.Table_OBI_Hieroglyph,
+tr,
+td,
+th {
 
     border-collapse: collapse;
     border: 1px solid black;
 }
+
 .Table_OBI_Hieroglyph tr td img {
     width: 30px;
     height: 30px;
 }
-.Group_of_Hieroglyphs_6_7{
+
+.Group_of_Hieroglyphs_6_7 {
     border: 1px solid gray;
 }
-.Group_of_Hieroglyphs_6_7 img{
 
-}
-.td_centered{
+.Group_of_Hieroglyphs_6_7 img {}
+
+.td_centered {
     text-align: center;
+}
+
+.temp1 {
+    width: 10px;
+    height: 10px;
 }
